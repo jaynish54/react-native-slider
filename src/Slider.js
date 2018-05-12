@@ -265,7 +265,7 @@ export default class Slider extends PureComponent {
   };
 
   componentWillReceiveProps(nextProps) {
-    var oldValues = this.props.value;
+    var oldValues = this.state.value;
     var newValues = nextProps.value;
     
     if (!Array.isArray(newValues))
