@@ -1,6 +1,6 @@
 {
   "name": "react-native-indie-slider",
-  "version": "0.11.0-SNAPSHOT",
+  "version": "0.11.0-SNAPSHOT.1",
   "description": "A pure JavaScript <Slider /> component for react-native",
   "main": "lib/Slider.js",
   "files": [
